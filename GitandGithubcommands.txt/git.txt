@@ -1,0 +1,31 @@
+Git >> it required to keep track of version control
+
+>> It is distributed (on cloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+# it supported with  various applications
+1. Github
+2. Gitlab
+3. Gitpod
+4. BitBucket
+
+>> for 1st time need to configure github in our system
+Python config --global user.name "HarshKumarBhagat"
+git config --global user.email "2024a6r001@mietjammu.in"
+git config --global color.ui auto
+
+Mandatory Commands:
+>> git init
+>> git remote add origin https://github.com/HarshKumarBhagat/githarsh.git
+
+
+
+git pull origin main
+git status
+
+git add .
+git status
+git commit -m "Commit Message"
+git push
